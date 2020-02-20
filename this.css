@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	font-family: 'Raleway',sans-serif;
+}
+header {
+	background: #80000;
+}
+.container {
+	width: 1600px;
+	margin: 0 auto;
+}
+.logo-section {
+	width: 100px;
+	margin-top: 4px;
+}
+nav {
+	float: right;
+	margin-top: 94 px;
+	margin-right: 90px; 
+}
+a {
+	text-decoration: none;
+	color: #FF0000;
+	text-transform: uppercase;
+	margin-left: 19px;
+	font-size: 21px;
+	padding: 16px 27px; 
+}
+nav a:hover {
+	background: #e43228;
+	border-radius: 15px;
+}
